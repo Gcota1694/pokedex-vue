@@ -1,1 +1,0 @@
-import{_ as o,c as n,a as s,o as t}from"./index-BdwRJFTt.js";const c={},r={class:"login"};function a(_,e){return t(),n("div",r,[...e[0]||(e[0]=[s("h1",null,"Login",-1)])])}const l=o(c,[["render",a]]);export{l as default};
